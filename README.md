@@ -1,7 +1,7 @@
 # Xiaomi
 
 
-Proyecto desarrollado para Suzuki en Mercado Libre México. Se me entrego el diseño y la tarea de desarrollarlo y adaptarlo a navegadores.
+Proyecto desarrollado para Xiaomi en Mercado Libre México. Se me entrego el diseño y la tarea de desarrollarlo y adaptarlo a navegadores.
 
 ## Comenzando 🚀
 
