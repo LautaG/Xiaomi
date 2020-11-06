@@ -7,7 +7,7 @@ Proyecto desarrollado para Suzuki en Mercado Libre México. Se me entrego el dis
 
 Para poder ver el avance del proyecto en vivo y las modificaciones, ingresa al siguiente link
 
-https://lautag.github.io/xiaomi/
+https://lautag.github.io/Xiaomi/
 
 ## Construido con 🛠️
 
