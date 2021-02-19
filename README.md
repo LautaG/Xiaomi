@@ -1,7 +1,7 @@
 # Xiaomi
 
 
-Proyecto desarrollado para Xiaomi en Mercado Libre México. Se me entrego el diseño y la tarea de desarrollarlo y adaptarlo a navegadores.
+Proyecto de maquetado para Xiami - Mercado libre México. el diseño no es de mi autoría, se me entrego junto a la tarea de desarrollarlo y también hacerlo responsive. 
 
 ## Comenzando 🚀
 
