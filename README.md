@@ -1,7 +1,7 @@
 # Xiaomi
 
 
-Proyecto de maquetado para Xiami - Mercado libre México. el diseño no es de mi autoría, se me entrego junto a la tarea de desarrollarlo y también hacerlo responsive. 
+Proyecto de maquetado para Xiaomi - Mercado libre México. el diseño no es de mi autoría, se me entrego junto a la tarea de desarrollarlo y también hacerlo responsive. 
 
 ## Comenzando 🚀
 
